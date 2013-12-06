@@ -1,6 +1,6 @@
   Facebook Chat Online Alert Chrome Plugin
 
-  So are you looking at your Facebook "Online Friends" waiting for that one person to come on.?
+  Are you looking at your Facebook "Online Friends" waiting for that one person to come on.?
 
 
   Facebook Online Alert is a free and opensource plugin for Google Chrome which notifies
